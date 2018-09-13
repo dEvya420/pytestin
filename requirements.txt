@@ -1,2 +1,2 @@
 
-SQLite3
+SQLite3>=12.6
