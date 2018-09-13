@@ -1,2 +1,3 @@
 
-
+install SQLite3
+install python-telegram-bot --upgrade
