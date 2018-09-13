@@ -1,2 +1,2 @@
 SQLite3==?
-clone https://github.com/python-telegram-bot/python-telegram-bot --recursive
+clone https://github.com/python-telegram-bot/python-telegram-bot
