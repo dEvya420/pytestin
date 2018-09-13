@@ -3,4 +3,3 @@ future>=0.16.0
 certifi
 tornado>=5.1
 cryptography
-install git+https://github.com/python-telegram-bot/python-telegram-bot
