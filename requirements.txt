@@ -1,3 +1,2 @@
-python-telegram-bot==?
 SQLite3==?
-pip+python-telegram-bot
+python-telegram-bot
