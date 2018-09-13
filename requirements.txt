@@ -1,2 +1,2 @@
 SQLite3==?
-install https://github.com/python-telegram-bot/python-telegram-bot
+install git+https://github.com/python-telegram-bot/python-telegram-bot
